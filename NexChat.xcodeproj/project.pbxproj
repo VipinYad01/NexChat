@@ -23,14 +23,14 @@
 			path = NexChat;
 			sourceTree = "<group>";
 		};
-		FCF4C1F32E23155400CCA422 /* Firebase AuthenticationTests */ = {
+		FCF4C1F32E23155400CCA422 /* NexChatTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Firebase AuthenticationTests";
+			path = NexChatTests;
 			sourceTree = "<group>";
 		};
-		FCF4C1FD2E23155400CCA422 /* Firebase AuthenticationUITests */ = {
+		FCF4C1FD2E23155400CCA422 /* NexChatUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Firebase AuthenticationUITests";
+			path = NexChatUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -59,8 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				FCF4C1E52E23155200CCA422 /* NexChat */,
-				FCF4C1F32E23155400CCA422 /* Firebase AuthenticationTests */,
-				FCF4C1FD2E23155400CCA422 /* Firebase AuthenticationUITests */,
+				FCF4C1F32E23155400CCA422 /* NexChatTests */,
+				FCF4C1FD2E23155400CCA422 /* NexChatUITests */,
 				FCDDECF62E509E7B006C9687 /* Frameworks */,
 				FCF4C1E42E23155200CCA422 /* Products */,
 				FC69AA812E674D7800C2236D /* GoogleService-Info.plist */,
